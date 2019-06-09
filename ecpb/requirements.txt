@@ -1,0 +1,5 @@
+certifi==2019.3.9
+chardet==3.0.4
+clipboard==0.0.4
+requests==2.22.0
+
